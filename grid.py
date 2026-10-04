@@ -38,7 +38,7 @@ def _is_connected(grid, start, goal):
     return False
 
 
-def generate_problem(seed=ROLL_NUMBER, size=20, density=0.22, n_walls=4):
+def generate_problem(seed=ROLL_NUMBER, size=20, density=0.20, n_walls=2):
     """
     Build a grid problem from the given seed.
 
