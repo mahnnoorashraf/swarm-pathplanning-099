@@ -108,6 +108,6 @@ Output: best cost, path length, collision count and waypoint list in the termina
 
 ## Hand-drawn flow diagram
 
-![Hand-drawn flow diagram](images/flow_diagram.jpg)
+![Hand-drawn flow diagram](images/flow_diagram.png)
 
 Flow: Initialize (seed 99) → Generate grid & obstacles → Place start/goal → Initialise swarm → Evaluate candidate paths → Check collision with obstacles → Update pBest/gBest → Update velocity & position → Stopping condition (400 iterations, 5 swarms) → Output best path.
