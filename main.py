@@ -2,7 +2,7 @@
 Swarm Intelligence Lab - Assignment 1
 PSO path planning on a 2D grid with obstacles.
 
-Student : Hanzala
+Student : Mahnoor
 Roll no.: 099   ->   SEED = 99
 
 Run:  python main.py                (uses seed 99)
