@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Name** | Hanzala |
+| **Name** | Mahnoor |
 | **Roll No.** | 099 |
 | **Seed used** | `99` → `random.seed(99)` (defined as `ROLL_NUMBER = 99` in `grid.py`) |
 | **Algorithm** | Particle Swarm Optimization (PSO) |
@@ -92,7 +92,7 @@ images/        # hand-drawn flow diagram
 ## How to run
 
 ```bash
-git clone https://github.com/<your-username>/swarm-pathplanning-099.git
+git clone https://github.com/<mahnnoorashraf>/swarm-pathplanning-099.git
 cd swarm-pathplanning-099
 pip install -r requirements.txt
 python main.py
